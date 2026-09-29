@@ -1,2 +1,19 @@
 # vaishalisingh
-Hi, I'm Vaishali 👋  🎓 M.Sc. Computer Science 📐 Mathematics background 💻 Currently learning Python &amp; Data Structures 🤖 Exploring AI/ML &amp; Data Science 📊 Interested in technology, analytics and finance  Currently learning: • Python • SQL • Machine Learning • Git &amp; GitHub • Data Analytics  Projects: • Coming soon...
+
+Hi, I'm Vaishali 👋  
+
+🎓 M.Sc. Computer Science 
+📐 Mathematics background 
+💻 Currently learning Python &amp; Data Structures 
+🤖 Exploring AI/ML &amp; Data Science 
+📊 Interested in technology, analytics and finance  
+
+Currently learning: 
+• Python 
+• SQL 
+• Machine Learning 
+• Git &amp; GitHub 
+• Data Analytics  
+
+Projects: 
+• Coming soon...
